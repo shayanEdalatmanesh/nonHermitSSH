@@ -5,3 +5,4 @@ This repository contains all the data, scripts, and Jupyter notebooks required t
 *Shayan Edalatmanesh* and *Thomas Frederiksen*  
 Published in *Physical Review B*, 2025.  
 [https://doi.org/10.1103/xjy9-6ysw]
+https://journals.aps.org/prb/accepted/10.1103/xjy9-6ysw
