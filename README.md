@@ -1,2 +1,2 @@
 # nonHermitSSH
-A repository containing Jupyter notebooks for calculations on various non-Hermitian SSH chain setups in a condensed-matter context.
+# Reproducibility Package for: "Non-Hermitian effects in the Su-Schrieffer-Heeger model: Exploring substrate coupling and decoupling dynamics"
