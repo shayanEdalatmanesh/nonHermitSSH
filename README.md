@@ -3,5 +3,5 @@ This repository contains all the data, scripts, and Jupyter notebooks required t
 
 **"Non-Hermitian effects in the Su-Schrieffer-Heeger model: Exploring substrate coupling and decoupling dynamics"**  
 *Shayan Edalatmanesh* and *Thomas Frederiksen*  
-Published in *Physical Review B*, 2025.  
+To be published in *Physical Review B*, 2025.  
 https://journals.aps.org/prb/accepted/10.1103/xjy9-6ysw
